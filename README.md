@@ -2,7 +2,7 @@
 
 **Rakamin Academy | Business Analytics Project**
 
-![Kimia Farma Performance Dashboard](documentation/dashboard_overview.png)
+![Kimia Farma Performance Dashboard](documentation/dashboard_overview.jpg)
 
 ## 📌 Project Overview
 
